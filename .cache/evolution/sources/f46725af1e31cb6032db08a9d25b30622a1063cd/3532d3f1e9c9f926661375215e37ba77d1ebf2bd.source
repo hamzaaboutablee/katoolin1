@@ -1,0 +1,26 @@
+[Data Source]
+DisplayName=مهامي
+Enabled=true
+Parent=f46725af1e31cb6032db08a9d25b30622a1063cd
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=hamzabuhh@gmail.com
+CredentialName=
+IsExternal=false
+
+[Resource]
+Identity=gtasks::MTE0Mzc5ODIzMDczMjMwODQyMTg6MDow
+
+[Alarms]
+IncludeMe=false
+LastNotified=
+
+[Task List]
+BackendName=gtasks
+Color=#becedd
+Selected=true

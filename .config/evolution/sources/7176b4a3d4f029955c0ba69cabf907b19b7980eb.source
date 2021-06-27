@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=hamzabuhh@gmail.com
+Enabled=true
+Parent=f46725af1e31cb6032db08a9d25b30622a1063cd
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=eca612c972eba5a557863be96a6d662800c78a25
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=hamzabuhh@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
